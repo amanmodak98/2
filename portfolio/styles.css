@@ -1,0 +1,83 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-image: url('https://st2.depositphotos.com/6504442/50954/v/450/depositphotos_509541324-stock-illustration-light-multicolor-vector-modern-abstract.jpg'); /* Replace 'your-image-url.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.container1 {
+    width: 80%;
+    margin: 0 auto;
+    background-image: url('https://www.djmathtutoring.ca/wp-content/uploads/2015/12/about-me-background.jpg'); /* Replace 'your-image-url.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+    background-image: url('https://img.freepik.com/free-vector/bokeh-defocused-background_23-2148497833.jpg'); /* Replace 'your-image-url.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0 0;
+}
+
+
+section h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+}
